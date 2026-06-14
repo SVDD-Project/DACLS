@@ -1,5 +1,9 @@
 # Singing Voice Deepfake Detection (DACLS Project)
 
+## Authors & Contributors
+- **Luca Perlini**
+- **Gioele Manuguerra**
+
 ## Overview
 This repository contains a Deep Learning framework developed in Python and PyTorch for synthetic audio and deepfake singing voice detection. The project focuses on utilizing Generative Adversarial Networks (GANs) to accurately classify authentic and AI-generated audio samples, specifically targeting the SingFake dataset.
 
