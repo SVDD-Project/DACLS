@@ -1,7 +1,5 @@
-L'addestramento con Optuna viene avviato tramite lo script optuna_dcgan.py usando il comando  
-python optuna_dcgan.py --dataset ~/dataset/Log3_real/BalancedTraining --validation ~/dataset/Log3/BalancedValidation --n_trials 70.
+The Optuna optimization process is launched through the optuna_dcgan.py script using the command python optuna_dcgan.py --dataset ~/dataset/Log3_real/BalancedTraining --validation ~/dataset/Log3/BalancedValidation --n_trials 70.
 
-Per l'addestramento singolo si usa lo script run.py con il comando  
-run.py: python run.py --gan dcgan --dataset ~/dataset/Log3_real/BalancedTraining -log
+For a single training run, the run.py script is used with the command python run.py --gan dcgan --dataset ~/dataset/Log3_real/BalancedTraining -log.
 
-Le reti su cui stiamo lavorando ora sono TrainV2.py e dcgan_modelV2.py.
+The networks currently being developed and tested are implemented in TrainV2.py and dcgan_modelV2.py.
