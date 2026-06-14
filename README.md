@@ -1,6 +1,6 @@
 # Singing Voice Deepfake Detection (DACLS Project)
 
-## Authors & Contributors
+## Authors
 - **Luca Perlini**
 - **Gioele Manuguerra**
 
